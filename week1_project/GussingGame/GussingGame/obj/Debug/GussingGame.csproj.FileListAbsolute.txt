@@ -1,0 +1,7 @@
+C:\c#\week1_project\GussingGame\GussingGame\bin\Debug\GussingGame.exe.config
+C:\c#\week1_project\GussingGame\GussingGame\bin\Debug\GussingGame.exe
+C:\c#\week1_project\GussingGame\GussingGame\bin\Debug\GussingGame.pdb
+C:\c#\week1_project\GussingGame\GussingGame\obj\Debug\GussingGame.csproj.AssemblyReference.cache
+C:\c#\week1_project\GussingGame\GussingGame\obj\Debug\GussingGame.csproj.CoreCompileInputs.cache
+C:\c#\week1_project\GussingGame\GussingGame\obj\Debug\GussingGame.exe
+C:\c#\week1_project\GussingGame\GussingGame\obj\Debug\GussingGame.pdb
