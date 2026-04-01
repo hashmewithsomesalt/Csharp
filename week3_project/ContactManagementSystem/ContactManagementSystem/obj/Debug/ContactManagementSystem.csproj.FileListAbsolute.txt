@@ -1,0 +1,7 @@
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\bin\Debug\ContactManagementSystem.exe.config
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\bin\Debug\ContactManagementSystem.exe
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\bin\Debug\ContactManagementSystem.pdb
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.csproj.AssemblyReference.cache
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.csproj.CoreCompileInputs.cache
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.exe
+C:\c#\week2_project\ContactManagementSystem\ContactManagementSystem\obj\Debug\ContactManagementSystem.pdb

@@ -1,0 +1,7 @@
+C:\c#\week2_project\Banking System\Banking System\bin\Debug\Banking System.exe.config
+C:\c#\week2_project\Banking System\Banking System\bin\Debug\Banking System.exe
+C:\c#\week2_project\Banking System\Banking System\bin\Debug\Banking System.pdb
+C:\c#\week2_project\Banking System\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\c#\week2_project\Banking System\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\c#\week2_project\Banking System\Banking System\obj\Debug\Banking System.exe
+C:\c#\week2_project\Banking System\Banking System\obj\Debug\Banking System.pdb
